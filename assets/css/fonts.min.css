@@ -1,0 +1,27 @@
+@font-face {
+  font-family: Hoves;
+  font-display: swap;
+  src: url("../fonts/TTHoves-Regular.woff") format("woff"), url("../fonts/TTHoves-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: Hoves;
+  font-display: swap;
+  src: url("../fonts/TTHoves-Thin.woff") format("woff"), url("../fonts/TTHoves-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: Norms;
+  font-display: swap;
+  src: url("../fonts/TTNormsPro-Regular.woff") format("woff"), url("../fonts/TTNormsPro-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: Norms;
+  font-display: swap;
+  src: url("../fonts/TTNormsPro-Medium.woff") format("woff"), url("../fonts/TTNormsPro-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal; }
